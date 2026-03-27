@@ -1,8 +1,20 @@
 package heimdal.model;
 
+import java.util.ArrayList;
+
 public class FileDetails {
     private String filename;
     private long frequency;
+
+    public ArrayList<Integer> getPages() {
+        return pages;
+    }
+
+    public void setPages(ArrayList<Integer> pages) {
+        this.pages = pages;
+    }
+
+    private ArrayList<Integer> pages;
 
     public String getFilename() {
         return filename;
@@ -23,10 +35,13 @@ public class FileDetails {
     {
         this.filename = name;
         this.frequency = wordFreq;
+        pages = new ArrayList<>();
     }
     @Override
     public String toString()
     {
-        return "\nFiledetails\n{\n\t\"Name\":\""+this.filename+"\"\n\t\"Word-freq\":\""+this.frequency+"\"\n}";
+        return "{\n\t\"Name\":\""+this.filename+"\"" +
+                "\n\t\"Word-freq\":\""+this.frequency+"\"" +
+                "\n\t\"page-numbers\":"+pages+"\n}";
     }
 }
