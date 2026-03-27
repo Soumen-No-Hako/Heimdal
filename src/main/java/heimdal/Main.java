@@ -30,9 +30,25 @@ public class Main {
                 stripper.setStartPage(i);
                 stripper.setEndPage(i);
                 System.out.println("Processing page "+(i+1)+"...");
-                String strippedText = stripper.getText(doc).replaceAll("[^A-Za-z0-9\\s\\n]", " ");
-                System.out.println(strippedText);
-                appendWordmap(strippedText, wordmap);
+                String pagetxt = stripper.getText(doc);
+                int steady=0, runny = 1;
+                String word = "";
+                if(pagetxt.length()!=0) word = pagetxt.substring(0,1);
+                while(runny<pagetxt.length())
+                {
+                    if(String.valueOf(pagetxt.charAt(runny)).matches("[^A-Za-z0-9]") || (runny+1)>=pagetxt.length())
+                    {
+                        //add word to map
+                        //change pointers
+                        appendWordmap(word.toLowerCase(), wordmap);
+                        if(runny+1 != pagetxt.length()) word = String.valueOf(pagetxt.charAt(runny + 1));
+                        runny+=2;
+                    }
+                    else word += pagetxt.charAt(runny++);
+                }
+//                String strippedText = stripper.getText(doc).replaceAll("[^A-Za-z0-9\\s\\n]", " ");
+//                System.out.println(strippedText);
+//                appendWordmap(strippedText, wordmap);
             }
             File outputFile = new File("/home/soumen/Downloads/Projects-2026/Heimdal/src/main/resources/heimdal-output/output-heimdal-" + Instant.now().toString() + ".txt");
             outputFile.createNewFile();
@@ -45,22 +61,21 @@ public class Main {
         }
     }
 
-    private static void appendWordmap(String strippedText, HashMap<String, ArrayList<FileDetails>> wordmap) {
-        String[] wordArray = strippedText.split(" ");
-        Arrays.stream(wordArray).forEach(word -> {
-            if(wordmap.containsKey(word)) {
+    private static void appendWordmap(String word, HashMap<String, ArrayList<FileDetails>> wordmap) {
+
+        if(!(isArticle(word) || filterSmallPrepositions(word))){
+            if (wordmap.containsKey(word)) {
                 FileDetails fd = wordmap.get(word).get(0);
-                long freq = fd.getFrequency()+1;
+                long freq = fd.getFrequency() + 1;
                 fd.setFrequency(freq);
                 wordmap.get(word).set(0, fd);
-            }
-            else {
+            } else {
                 FileDetails fd = new FileDetails(pathname, 1);
                 ArrayList<FileDetails> fdList = new ArrayList<>();
                 fdList.add(fd);
                 wordmap.put(word, fdList);
             }
-        });
+        }
     }
 
     public static boolean isArticle(String word)
