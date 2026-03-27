@@ -40,7 +40,7 @@ public class Main {
                     {
                         //add word to map
                         //change pointers
-                        appendWordmap(word.toLowerCase(), wordmap);
+                        appendWordmap(word.toLowerCase(), wordmap, i);
                         if(runny+1 != pagetxt.length()) word = String.valueOf(pagetxt.charAt(runny + 1));
                         runny+=2;
                     }
@@ -61,17 +61,23 @@ public class Main {
         }
     }
 
-    private static void appendWordmap(String word, HashMap<String, ArrayList<FileDetails>> wordmap) {
+    private static void appendWordmap(String word, HashMap<String, ArrayList<FileDetails>> wordmap, int pgnum) {
 
         if(!(isArticle(word) || filterSmallPrepositions(word))){
             if (wordmap.containsKey(word)) {
                 FileDetails fd = wordmap.get(word).get(0);
                 long freq = fd.getFrequency() + 1;
+                ArrayList<Integer> pagenums = fd.getPages();
+                pagenums.add(pgnum);
                 fd.setFrequency(freq);
+                fd.setPages(pagenums);
                 wordmap.get(word).set(0, fd);
             } else {
                 FileDetails fd = new FileDetails(pathname, 1);
                 ArrayList<FileDetails> fdList = new ArrayList<>();
+                ArrayList<Integer> pagenums = fd.getPages();
+                pagenums.add(pgnum);
+                fd.setPages(pagenums);
                 fdList.add(fd);
                 wordmap.put(word, fdList);
             }
