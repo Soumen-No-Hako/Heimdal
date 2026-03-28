@@ -18,6 +18,7 @@ import java.util.List;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static String pathname = "/home/soumen/Downloads/Projects-2026/Heimdal/src/main/resources/LLM Data Pipeline Explained_.pdf";
+    public static String filename = pathname.substring(pathname.indexOf("/resources/") + "/resources/".length());
     static void main() {
         PDFTextStripper stripper = new PDFTextStripper();
         HashMap<String, ArrayList<FileDetails>> wordmap = new HashMap<>();
@@ -29,7 +30,7 @@ public class Main {
             for (int i = 0; i < numberOfPages; i++) {
                 stripper.setStartPage(i);
                 stripper.setEndPage(i);
-                System.out.println("Processing page "+(i+1)+"...");
+                System.out.println("Processing page "+(i+1)+" of "+ filename +" ...");
                 String pagetxt = stripper.getText(doc);
                 int steady=0, runny = 1;
                 String word = "";
@@ -40,15 +41,12 @@ public class Main {
                     {
                         //add word to map
                         //change pointers
-                        appendWordmap(word.toLowerCase(), wordmap, i);
+                        appendWordmap(word.toLowerCase().trim(), wordmap, i);
                         if(runny+1 != pagetxt.length()) word = String.valueOf(pagetxt.charAt(runny + 1));
                         runny+=2;
                     }
                     else word += pagetxt.charAt(runny++);
                 }
-//                String strippedText = stripper.getText(doc).replaceAll("[^A-Za-z0-9\\s\\n]", " ");
-//                System.out.println(strippedText);
-//                appendWordmap(strippedText, wordmap);
             }
             File outputFile = new File("/home/soumen/Downloads/Projects-2026/Heimdal/src/main/resources/heimdal-output/output-heimdal-" + Instant.now().toString() + ".txt");
             outputFile.createNewFile();
@@ -63,7 +61,7 @@ public class Main {
 
     private static void appendWordmap(String word, HashMap<String, ArrayList<FileDetails>> wordmap, int pgnum) {
 
-        if(!(isArticle(word) || filterSmallPrepositions(word))){
+        if(!(isArticle(word) || filterSmallPrepositions(word) || word.length()<2)){
             if (wordmap.containsKey(word)) {
                 FileDetails fd = wordmap.get(word).get(0);
                 long freq = fd.getFrequency() + 1;
@@ -73,7 +71,7 @@ public class Main {
                 fd.setPages(pagenums);
                 wordmap.get(word).set(0, fd);
             } else {
-                FileDetails fd = new FileDetails(pathname, 1);
+                FileDetails fd = new FileDetails(filename, 1);
                 ArrayList<FileDetails> fdList = new ArrayList<>();
                 ArrayList<Integer> pagenums = fd.getPages();
                 pagenums.add(pgnum);
@@ -86,7 +84,7 @@ public class Main {
 
     public static boolean isArticle(String word)
     {
-        var articles = List.of("a","an","the");
+        var articles = List.of("a","an","the", "am", "is", "are", "was", "were");
         for (int i = 0; i < articles.size(); i++) {
             if (word.equalsIgnoreCase(articles.get(i)))
             {
