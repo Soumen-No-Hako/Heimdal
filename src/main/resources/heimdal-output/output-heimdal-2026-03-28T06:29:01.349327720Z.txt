@@ -1,0 +1,7250 @@
+{undermining=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+illustrating=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 11]
+}],
+introduces=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+functions=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 11]
+}],
+accuracy=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+chapter6=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+your=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[14, 14, 14, 14, 15]
+}],
+tokenization=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"14"
+	"page-numbers":[9, 9, 9, 9, 9, 9, 10, 12, 14, 14, 15, 15, 15, 15]
+}],
+without=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[9, 11]
+}],
+building=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 15]
+}],
+these=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"16"
+	"page-numbers":[2, 2, 2, 2, 6, 7, 7, 7, 8, 9, 9, 10, 10, 11, 12, 12]
+}],
+begins=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[4, 5, 9, 11]
+}],
+score=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"9"
+	"page-numbers":[3, 6, 6, 6, 6, 8, 8, 10, 10]
+}],
+pubmed=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+introduced=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+would=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[4, 6, 7, 11]
+}],
+biases=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"6"
+	"page-numbers":[2, 2, 2, 8, 13, 13]
+}],
+understanding=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"7"
+	"page-numbers":[11, 13, 13, 14, 14, 15, 15]
+}],
+because=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[3, 6, 9, 9, 10]
+}],
+ram=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+thus=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[2, 6, 6]
+}],
+biased=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+raw=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"9"
+	"page-numbers":[1, 2, 2, 2, 3, 4, 6, 9, 12]
+}],
+neutral=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+proportional=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+require=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+google=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+​byte=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[15, 15]
+}],
+scratch=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[15, 15]
+}],
+analysis=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[1, 7]
+}],
+community=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+version=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[1, 2]
+}],
+machinelearningmastery=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 14]
+}],
+contains=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+applies=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+size=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[5, 7, 10]
+}],
+science=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[4, 15, 15, 15]
+}],
+generalizing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+metrics=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[6, 8, 8, 9]
+}],
+inefficient=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+statistical=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"11"
+	"page-numbers":[1, 3, 5, 6, 6, 7, 7, 8, 8, 12, 14]
+}],
+criterion=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+role=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+independent=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[5, 7, 13]
+}],
+deduplicate=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 14]
+}],
+datasets=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"9"
+	"page-numbers":[1, 1, 1, 2, 2, 4, 13, 14, 14]
+}],
+turn=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+unfiltered=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[1, 12]
+}],
+uncertainty=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[3, 8]
+}],
+matrix=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[10, 10, 10]
+}],
+​minhash=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+example=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"7"
+	"page-numbers":[1, 2, 5, 6, 8, 9, 9]
+}],
+result=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[4, 5, 7]
+}],
+mozillafoundation=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+characters=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[9, 9]
+}],
+same=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[5, 5, 5, 5, 7]
+}],
+vocabulary=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"6"
+	"page-numbers":[9, 9, 9, 10, 10, 10]
+}],
+spanning=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+feeding=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+deeplearning=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+dtotal=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+wikipedia=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"10"
+	"page-numbers":[13, 13, 14, 14, 15, 15, 15, 15, 15, 15]
+}],
+naughty=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+behavior=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[9, 10]
+}],
+close=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+linked=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+commoncrawl=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+mitigate=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 8]
+}],
+sets=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[4, 4, 5]
+}],
+learn=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[1, 7, 14, 14, 15]
+}],
+probabilistic=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+gisting=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+combines=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+union=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+textual=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[6, 6]
+}],
+predictions=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+logical=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+descent=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+suite=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+unrelated=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+acadd86a63ba=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+information=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"6"
+	"page-numbers":[3, 5, 11, 11, 11, 12]
+}],
+combined=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[11, 12]
+}],
+leverages=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+facet=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+standard=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+converting=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[3, 9]
+}],
+historical=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+predefined=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+tensorwave=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 14]
+}],
+faithful=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+ref=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+wise=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[11, 12]
+}],
+generated=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+intersection=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+signifies=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+assigns=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+making=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 14]
+}],
+predicated=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+need=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"7"
+	"page-numbers":[5, 11, 13, 14, 15, 15, 15]
+}],
+its=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"17"
+	"page-numbers":[1, 1, 2, 2, 2, 3, 5, 5, 6, 7, 8, 9, 10, 11, 11, 11, 12]
+}],
+originally=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+gpt=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"7"
+	"page-numbers":[1, 1, 1, 1, 6, 9, 12]
+}],
+often=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[1, 2, 2, 6, 12]
+}],
+encoding=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"21"
+	"page-numbers":[9, 11, 11, 11, 11, 11, 11, 11, 11, 12, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15]
+}],
+list=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+article=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+lack=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 13]
+}],
+fusion=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[11, 12]
+}],
+candidates=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+divergence=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+600=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+supposed=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+therefore=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+exchange=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+formats=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+technical=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[1, 2, 13, 13]
+}],
+neural=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[6, 7, 7, 13, 14]
+}],
+regional=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+applied=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 10]
+}],
+divided=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[5, 6, 7]
+}],
+provided=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+indispensable=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+medium=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"6"
+	"page-numbers":[14, 14, 14, 15, 15, 15]
+}],
+representation=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+remove=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[3, 3]
+}],
+geeksforgeeks=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[15, 15]
+}],
+previously=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+flows=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 11]
+}],
+provides=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[3, 5, 7]
+}],
+tutorial=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+ensuring=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[3, 3, 4, 8, 12]
+}],
+capabilities=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[1, 8, 12]
+}],
+identify=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+blocks=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 15]
+}],
+multiple=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 9]
+}],
+rich=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+evolution=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+recorded=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+better=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[1, 2, 5]
+}],
+significance=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[6, 6]
+}],
+occurring=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+horizon=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+service=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+arises=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+there=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[12, 12]
+}],
+well=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[1, 3]
+}],
+amassed=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+deliberate=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+outlook=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+college=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+smaller=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"6"
+	"page-numbers":[1, 2, 5, 7, 9, 9]
+}],
+illustrates=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+irrelevant=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[3, 3]
+}],
+called=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[7, 7, 9]
+}],
+pile=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"8"
+	"page-numbers":[1, 1, 7, 13, 13, 13, 13, 13]
+}],
+considered=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+invisible=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 15]
+}],
+deduplication=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"10"
+	"page-numbers":[3, 3, 4, 4, 4, 4, 4, 4, 4, 12]
+}],
+ai2=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+entire=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"9"
+	"page-numbers":[2, 4, 6, 7, 7, 8, 11, 11, 12]
+}],
+accessed=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"39"
+	"page-numbers":[13, 13, 13, 13, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15]
+}],
+approach=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[3, 4, 5, 7, 8]
+}],
+years=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+signatures=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 5]
+}],
+moral=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+number=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"11"
+	"page-numbers":[2, 5, 5, 6, 6, 6, 6, 6, 6, 8, 8]
+}],
+minhash=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"9"
+	"page-numbers":[4, 5, 5, 5, 5, 5, 5, 12, 14]
+}],
+cores=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+-architecture=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+pairwise=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 5]
+}],
+inadvertently=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+block=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+hate=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+magnitudes=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+flow=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 11]
+}],
+order=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[8, 11]
+}],
+algorithm=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"9"
+	"page-numbers":[9, 9, 10, 10, 10, 10, 10, 10, 13]
+}],
+hugging=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+@nasuhcanturker=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+similar=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"7"
+	"page-numbers":[4, 4, 5, 5, 7, 10, 11]
+}],
+byte=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"6"
+	"page-numbers":[9, 15, 15, 15, 15, 15]
+}],
+understand=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[9, 9, 11, 11]
+}],
+handle=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[1, 9]
+}],
+underlying=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 7]
+}],
+"perplexing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+impacts=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+relevance=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[6, 9]
+}],
+intelligence=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[5, 7, 12, 13]
+}],
+illustrated=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+even=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[5, 9, 11]
+}],
+subwords=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[10, 10, 10]
+}],
+transparency=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[2, 12, 13, 13]
+}],
+analyze=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+tensorloops=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+hash=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[4, 5, 5, 5]
+}],
+algorithms=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[2, 9, 9]
+}],
+other=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[1, 7, 8, 11]
+}],
+indicated=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+confident=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+cms=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+epoch=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[8, 8]
+}],
+representations=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[7, 9]
+}],
+batches=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[4, 7, 7]
+}],
+indicating=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+too=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[3, 3]
+}],
+indicates=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[3, 6, 7, 8]
+}],
+era=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+acquiring=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+have=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[2, 6, 6, 11]
+}],
+noise=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[3, 3, 3]
+}],
+costly=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+imperative=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[2, 2, 13]
+}],
+synthesis=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+product=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[6, 6, 7, 7]
+}],
+consequence=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+robust=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 5]
+}],
+lgbtqia=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+particularly=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+implications=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+​google=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+discussed=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[8, 13]
+}],
+redaction=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+inconsistent=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+genome=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+powerful=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[4, 6, 7]
+}],
+curated=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[1, 1, 1]
+}],
+future=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[12, 13]
+}],
+learners=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+shingle=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+logic=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[7, 7]
+}],
+ingestion=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+detokenizer=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+communities=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+com=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"19"
+	"page-numbers":[14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 15, 15, 15, 15, 15, 15, 15]
+}],
+capital=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+replica=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+minor=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+tidb=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+equally=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+implicitly=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+prevents=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+translated=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+upon=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+harmful=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+crawl=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"15"
+	"page-numbers":[1, 1, 1, 1, 2, 2, 2, 2, 2, 4, 7, 13, 13, 13, 13]
+}],
+platforms=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+identical=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[4, 7, 11]
+}],
+pii=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+pages=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"6"
+	"page-numbers":[1, 1, 2, 2, 12, 15]
+}],
+declares=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+"language=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+automation=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+optimize=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+academic=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+function=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 11]
+}],
+implemented=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+"university=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+representative=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+dmodel=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+all=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"7"
+	"page-numbers":[4, 6, 8, 11, 13, 15, 15]
+}],
+new=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"8"
+	"page-numbers":[2, 5, 9, 10, 10, 10, 10, 13]
+}],
+including=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[2, 7, 12]
+}],
+comparison=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 5]
+}],
+amplified=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+domains=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+cpu=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+positions=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+constitutes=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+less=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[2, 8, 10]
+}],
+real=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[11, 12]
+}],
+rigorous=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[3, 5]
+}],
+improve=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+basic=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+eleuther=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+centric=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+university=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+technique=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[3, 5, 6, 9, 11]
+}],
+cause=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+progression=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+discriminative=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+units=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[9, 9, 10]
+}],
+represents=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+effective=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 8]
+}],
+times=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+similarly=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+and=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"119"
+	"page-numbers":[1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 9, 9, 9, 9, 9, 9, 10, 10, 10, 10, 10, 11, 11, 11, 11, 11, 11, 11, 11, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 13, 13, 13, 13, 13, 13, 14, 14, 15, 15]
+}],
+curation=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"6"
+	"page-numbers":[1, 1, 2, 2, 12, 13]
+}],
+today=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+design=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[10, 10]
+}],
+influences=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+define=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+tokens=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"11"
+	"page-numbers":[1, 8, 9, 9, 9, 10, 10, 10, 10, 10, 11]
+}],
+row=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[10, 10]
+}],
+direction=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+tied=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+comments=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+deliberately=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+blunt=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+empowers=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+performing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+adjacent=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+specific=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"9"
+	"page-numbers":[2, 3, 3, 6, 6, 6, 8, 8, 8]
+}],
+any=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+consecutive=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+prioritize=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+risks=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+reliant=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+inherited=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+stable=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+nlplanet=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+punctuation=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+objectives=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+determinant=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 14]
+}],
+mitigating=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+accurate=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+csv=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+shift=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+sourcing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[1, 12]
+}],
+concern=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+integrity=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+docs=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+randomization=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 8]
+}],
+×idf=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+merge=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"6"
+	"page-numbers":[10, 10, 10, 10, 10, 10]
+}],
+english=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 2]
+}],
+builds=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+aiaaic=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[13, 13, 13]
+}],
+trainingoptions=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+represented=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+optimizing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+"improving=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+filtering=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"15"
+	"page-numbers":[2, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 8, 12, 13]
+}],
+events=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+defined=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[5, 7, 8, 12, 13]
+}],
+element=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[10, 11, 12, 12]
+}],
+jax=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+models=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"13"
+	"page-numbers":[1, 1, 4, 7, 8, 11, 12, 13, 13, 14, 15, 15, 15]
+}],
+using=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[2, 7, 11]
+}],
+merging=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[9, 10]
+}],
+mitigation=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+tuning=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+containing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[2, 2, 5, 6]
+}],
+remain=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+probable=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+refine=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+testament=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+demand=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+each=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"20"
+	"page-numbers":[3, 4, 4, 5, 5, 5, 5, 5, 7, 7, 7, 8, 8, 8, 10, 11, 11, 11, 11, 12]
+}],
+skews=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+000=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+input=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"10"
+	"page-numbers":[9, 9, 10, 11, 11, 11, 11, 11, 12, 12]
+}],
+​transformer=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+eliminates=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+slow=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+devlin=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+creating=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 10]
+}],
+comparisons=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 5]
+}],
+difference=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+styles=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+must=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[3, 6, 13]
+}],
+choices=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+items=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+sophisticated=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 6]
+}],
+frequently=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+document=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"13"
+	"page-numbers":[4, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7]
+}],
+another=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+deterministic=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+giving=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+two=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"12"
+	"page-numbers":[4, 4, 5, 5, 6, 6, 6, 7, 9, 11, 11, 14]
+}],
+diversity=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[3, 4, 12]
+}],
+found=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 13]
+}],
+varying=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+rotimi=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+pos=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[11, 11, 11]
+}],
+​award=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+does=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[9, 10]
+}],
+structured=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[1, 9]
+}],
+(c4=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+where=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"9"
+	"page-numbers":[2, 4, 5, 5, 5, 7, 11, 11, 12]
+}],
+cornerstone=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+mechanism=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[11, 12]
+}],
+popular=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 13]
+}],
+demonstrating=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[9, 10]
+}],
+limits=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+think=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+scaling=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[12, 12, 15, 15]
+}],
+pepos=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[11, 11]
+}],
+gradient=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+diagram=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[9, 10]
+}],
+such=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"8"
+	"page-numbers":[1, 2, 5, 6, 7, 8, 9, 11]
+}],
+automated=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 2]
+}],
+classic=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+nlp=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[6, 7, 14, 14, 15]
+}],
+speech=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+metric=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[3, 8, 8, 8, 9]
+}],
+watch=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+representativeness=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+dataset=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"18"
+	"page-numbers":[1, 1, 2, 2, 2, 2, 2, 4, 5, 7, 7, 7, 7, 7, 8, 13, 13, 13]
+}],
+principle=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 12]
+}],
+documents=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"16"
+	"page-numbers":[3, 4, 4, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7]
+}],
+importantly=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+solved=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+(lsh=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+source=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[1, 2, 3]
+}],
+philip=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+repeated=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[4, 5, 8]
+}],
+research=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"6"
+	"page-numbers":[2, 4, 12, 13, 14, 14]
+}],
+lifecycle=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+vectorization=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[6, 6]
+}],
+unable=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+pipelines=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+bias=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[2, 2, 4, 13]
+}],
+immense=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[1, 5, 7]
+}],
+∣a=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[5, 5, 5, 7, 7]
+}],
+hat=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[9, 10]
+}],
+has=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"9"
+	"page-numbers":[1, 1, 2, 3, 4, 4, 8, 9, 12]
+}],
+those=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[2, 3, 4, 13]
+}],
+inherent=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 11]
+}],
+stability=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+offers=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+tech=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[14, 15, 15]
+}],
+given=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 8]
+}],
+pre=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[13, 13]
+}],
+involves=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[3, 3, 7]
+}],
+might=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[6, 8]
+}],
+widely=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[8, 9]
+}],
+labeled=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[4, 11, 12]
+}],
+batch=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"10"
+	"page-numbers":[7, 7, 7, 7, 7, 8, 8, 8, 14, 14]
+}],
+mozilla=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[2, 13, 13]
+}],
+weight=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+insufficient=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+significant=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[2, 2, 6, 8]
+}],
+engineering=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+correlates=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+surprising=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+glossary=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+improving=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+measure=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[3, 4, 6, 7, 8]
+}],
+overlap=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 9]
+}],
+converted=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 6]
+}],
+proximity=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+spaces=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+leaving=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+parameters=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+mathematically=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+involving=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+=np=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+full=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+next=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[10, 10, 10]
+}],
+​seminal=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+"simplistic=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+memory=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[7, 8]
+}],
+absence=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+concept=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+book=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+effort=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+non=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"7"
+	"page-numbers":[1, 2, 5, 5, 6, 6, 8]
+}],
+augmented=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+updates=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[7, 8]
+}],
+redundant=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[3, 4, 5]
+}],
+.12=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[6, 6]
+}],
+conclusion=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+perplexity=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"17"
+	"page-numbers":[3, 3, 3, 3, 3, 4, 4, 8, 8, 8, 8, 8, 8, 8, 12, 14, 14]
+}],
+not=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"16"
+	"page-numbers":[2, 2, 2, 2, 4, 4, 7, 7, 8, 9, 10, 10, 10, 10, 12, 13]
+}],
+lowercasing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+central=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[1, 11]
+}],
+.17=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+now=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+cascading=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+perf=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+early=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+enhance=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+"memorize=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+ensures=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 8]
+}],
+news=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+quantifying=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[6, 6, 7]
+}],
+evaluations=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+royale=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+learned=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[10, 10]
+}],
+effectively=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[2, 5, 10, 11, 12]
+}],
+yet=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+llm=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"16"
+	"page-numbers":[4, 5, 8, 9, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 15, 15]
+}],
+.20=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+pair=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"16"
+	"page-numbers":[5, 5, 9, 10, 10, 10, 10, 10, 10, 15, 15, 15, 15, 15, 15, 15]
+}],
+way=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+what=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[11, 14, 15, 15]
+}],
+furthermore=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 12]
+}],
+detailed=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+infrastructure=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[13, 13]
+}],
+​how=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+typical=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+short=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+risk=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+time=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[11, 12]
+}],
+reducing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+applications=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+play=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+contextual=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+measured=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[1, 8]
+}],
+"entire=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+modeling=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+dimensionality=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+criteria=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[3, 3]
+}],
+obscene=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+infeasible=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+gage=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+complementary=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+issues=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[2, 3, 3]
+}],
+three=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 6]
+}],
+when=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+multi=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[3, 4, 6, 12]
+}],
+excluded=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+measures=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[3, 3, 6, 6, 6]
+}],
+llms=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"8"
+	"page-numbers":[6, 7, 7, 9, 12, 13, 15, 15]
+}],
+broad=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+options=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+vaswani=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+probabilities=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+greater=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+generation=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 7]
+}],
+having=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+​positional=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+indexed=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[11, 11]
+}],
+probability=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[3, 5, 5, 8]
+}],
+perpetuating=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+extraction=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+philosophy=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+matches=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+cleanliness=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+explicit=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[7, 7]
+}],
+provide=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 13]
+}],
+rely=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 7]
+}],
+learnmachinelearning=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[15, 15]
+}],
+refined=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+style=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+societal=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+primary=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+dividing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+explicitly=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[9, 10]
+}],
+study=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+oxylabs=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 14]
+}],
+logarithm=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+methods=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"9"
+	"page-numbers":[3, 6, 7, 7, 9, 9, 12, 14, 14]
+}],
+(2018=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[13, 13]
+}],
+direct=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+layer=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[10, 10, 11, 12]
+}],
+linguistic=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[3, 4, 8]
+}],
+rectifying=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+modern=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[6, 7, 7, 9]
+}],
+web=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"7"
+	"page-numbers":[1, 1, 1, 2, 2, 12, 13]
+}],
+low=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[3, 3]
+}],
+embedding=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"10"
+	"page-numbers":[7, 10, 10, 11, 11, 11, 11, 11, 11, 12]
+}],
+merely=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[2, 2, 2, 13]
+}],
+contextually=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+nvidia=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[13, 14]
+}],
+enables=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[1, 8, 11]
+}],
+architecture=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[10, 11, 15, 15, 15]
+}],
+means=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 7]
+}],
+chain=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+reliance=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+initial=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[1, 2, 9, 9]
+}],
+efficient=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 8]
+}],
+more=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"22"
+	"page-numbers":[1, 2, 3, 3, 3, 3, 4, 5, 5, 5, 5, 6, 6, 6, 7, 7, 8, 8, 10, 10, 12, 12]
+}],
+consistent=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+meanings=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+=tf=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+conceptual=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+(2020=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+pipeline=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"14"
+	"page-numbers":[2, 3, 3, 4, 4, 4, 4, 4, 4, 4, 9, 11, 11, 12]
+}],
+diametrically=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+encountered=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+imprints=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+(deep=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[15, 15]
+}],
+organization=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+inversely=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+randomly=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+prevalent=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+choice=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+∣w1=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+colossal=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+statistics=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+governed=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+small=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 7]
+}],
+compact=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 5]
+}],
+distinction=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+fed=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[11, 11]
+}],
+conceptually=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+simple=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+used=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"9"
+	"page-numbers":[2, 3, 3, 4, 6, 7, 8, 8, 9]
+}],
+shows=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[8, 10]
+}],
+shown=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+poloclub=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+feasible=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+2i5b=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+potential=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+combination=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[1, 4, 11, 11]
+}],
+otherwise=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+fixing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+created=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+minutes=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 14]
+}],
+format=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[3, 6, 9]
+}],
+both=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[11, 12]
+}],
+most=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"10"
+	"page-numbers":[4, 4, 9, 9, 9, 10, 10, 10, 10, 10]
+}],
+ormance=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+vectors=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"13"
+	"page-numbers":[6, 7, 7, 7, 7, 7, 10, 10, 11, 11, 12, 12, 12]
+}],
+twice=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[10, 10, 10]
+}],
+cosine=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"10"
+	"page-numbers":[6, 7, 7, 7, 7, 11, 14, 14, 14, 14]
+}],
+produces=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+creates=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 13]
+}],
+managing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+"full=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+lsh=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[5, 5, 12, 14, 14]
+}],
+critical=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"8"
+	"page-numbers":[2, 3, 4, 7, 8, 10, 12, 12]
+}],
+part=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[1, 5, 9, 12]
+}],
+values=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 6]
+}],
+crucial=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[7, 8, 9]
+}],
+,w2=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[8, 8, 8]
+}],
+reveals=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+their=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"11"
+	"page-numbers":[2, 2, 3, 5, 5, 7, 7, 7, 7, 11, 12]
+}],
+generator=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[11, 11]
+}],
+point=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+generative=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[13, 13]
+}],
+general=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+september=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"38"
+	"page-numbers":[13, 13, 13, 13, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15]
+}],
+along=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+billion=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+structural=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[3, 3]
+}],
+parallel=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[11, 11]
+}],
+visually=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+correcting=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+profit=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+designed=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[4, 9, 9, 10]
+}],
+dimension=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+fuzzy=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[3, 4, 4, 4]
+}],
+process=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"25"
+	"page-numbers":[1, 2, 3, 3, 4, 4, 4, 5, 5, 5, 6, 7, 7, 8, 9, 9, 9, 9, 9, 10, 10, 10, 11, 11, 12]
+}],
+move=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+amount=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+requirements=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+original=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+gale=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+built=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+clear=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[13, 13]
+}],
+(no=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+also=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 8]
+}],
+heavily=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+approaches=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+clean=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+quantifies=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+seeking=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+radford=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[13, 13]
+}],
+diminish=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+recommended=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+contained=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+favor=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+mean=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+prohibitively=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+attention=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[11, 11, 12, 13, 15]
+}],
+uses=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+further=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[2, 12, 13]
+}],
+"sentencepiece=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+user=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"8"
+	"page-numbers":[9, 9, 11, 11, 11, 11, 12, 12]
+}],
+simply=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[5, 10, 10, 10, 12]
+}],
+,wi=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+-data=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+​understanding=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[14, 14, 15, 15]
+}],
+stack=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+been=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[2, 3, 4, 8]
+}],
+,wn=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[8, 8, 8]
+}],
+bad=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+evolved=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+conversely=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+analyzing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+evaluation=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[8, 8]
+}],
+path=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+finds=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+dev=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 14]
+}],
+retrieval=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+complex=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[7, 9, 9]
+}],
+memorizing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+diverse=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"6"
+	"page-numbers":[1, 1, 4, 5, 8, 13]
+}],
+compressing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+promotes=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+preparatory=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+you=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"6"
+	"page-numbers":[11, 13, 14, 15, 15, 15]
+}],
+knowledge=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+limitations=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+addition=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[11, 12]
+}],
+prime=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+ab=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+grow=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+preventing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 12]
+}],
+preprocessing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"9"
+	"page-numbers":[2, 3, 3, 4, 4, 4, 4, 7, 14]
+}],
+visualized=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 11]
+}],
+stacks=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+documentation=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[13, 14]
+}],
+locality=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+ai=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"11"
+	"page-numbers":[7, 13, 13, 13, 14, 15, 15, 15, 15, 15, 15]
+}],
+sinusoidal=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+al=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[13, 13, 13, 13, 13]
+}],
+orthogonality=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+whose=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 10]
+}],
+easy=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 14]
+}],
+bucket=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[5, 5, 5]
+}],
+proxy=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+c4=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[2, 5, 13]
+}],
+as=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"35"
+	"page-numbers":[1, 1, 1, 2, 2, 2, 2, 3, 4, 5, 6, 6, 6, 7, 7, 7, 7, 7, 8, 8, 8, 9, 9, 10, 10, 11, 11, 11, 12, 12, 13, 13, 14, 14, 14]
+}],
+c7=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+unsupervised=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+domain=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+=cos=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[7, 11]
+}],
+800gb=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+assigned=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+evaluating=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"6"
+	"page-numbers":[8, 8, 8, 9, 14, 14]
+}],
+simultaneously=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+compression=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[9, 10, 13]
+}],
+formatting=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[3, 3, 3, 4]
+}],
+ghcsgrgvb=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+​implementing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+be=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"18"
+	"page-numbers":[2, 2, 2, 3, 4, 4, 4, 6, 7, 7, 8, 9, 10, 10, 11, 11, 12, 13]
+}],
+profoundly=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+utilizing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+bi=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+comes=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+cited=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+​cosine=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 14]
+}],
+originating=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+how=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"10"
+	"page-numbers":[3, 6, 6, 10, 13, 13, 14, 14, 14, 14]
+}],
+spacing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+unlike=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+arxiv=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+subsequent=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 11]
+}],
+term=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"7"
+	"page-numbers":[6, 6, 6, 6, 6, 6, 6]
+}],
+towardsdatascience=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+acquisition=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+cc=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+mind=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+scoring=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 10]
+}],
+set=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[5, 5, 5, 8, 10]
+}],
+"cat=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+mini=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"10"
+	"page-numbers":[7, 7, 7, 7, 7, 8, 8, 8, 14, 14]
+}],
+richardson=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+@hsinhungw=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+encodings=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+words=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"16"
+	"page-numbers":[2, 2, 6, 6, 6, 7, 9, 9, 9, 9, 9, 10, 11, 11, 11, 11]
+}],
+founded=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+huggingface=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+co=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[10, 10, 15]
+}],
+constrained=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+practices=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[8, 12]
+}],
+battle=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+advantages=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+stage=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"6"
+	"page-numbers":[3, 3, 4, 4, 4, 12]
+}],
+normalizing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+underscore=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+series=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+corresponds=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+essential=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[3, 4, 8]
+}],
+represent=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+"a=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+​lecture=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+de=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+corpus=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"13"
+	"page-numbers":[1, 2, 2, 3, 4, 6, 6, 6, 6, 6, 6, 9, 12]
+}],
+language=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"23"
+	"page-numbers":[2, 2, 3, 3, 4, 6, 7, 8, 9, 9, 10, 11, 12, 12, 13, 13, 13, 13, 13, 14, 15, 15, 15]
+}],
+do=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[7, 12]
+}],
+developed=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+manageable=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+meaningful=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[9, 10, 10, 10]
+}],
+differentiate=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+accomplished=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+retrieves=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[10, 11]
+}],
+rare=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[6, 6, 9]
+}],
+club=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+tetr=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+(tf=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[6, 6]
+}],
+train=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[3, 14, 14]
+}],
+computational=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[3, 4, 7, 8, 12]
+}],
+(2i=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[11, 11]
+}],
+which=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"25"
+	"page-numbers":[1, 1, 2, 2, 2, 2, 3, 4, 4, 5, 6, 6, 7, 7, 8, 8, 8, 9, 9, 9, 10, 10, 11, 11, 12]
+}],
+/c4=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+image=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[4, 9, 11]
+}],
+dedicated=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+journey=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[9, 12]
+}],
+​batching=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+learns=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[5, 10, 10]
+}],
+patterns=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+count=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[6, 6]
+}],
+varied=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+en=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"6"
+	"page-numbers":[13, 13, 14, 15, 15, 15]
+}],
+10000dmodel=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[11, 11]
+}],
+ep=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+"cleaner=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+regarding=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+et=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[13, 13, 13, 13, 13]
+}],
+profound=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[1, 2, 2, 11, 13]
+}],
+never=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+beneficial=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+final=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"11"
+	"page-numbers":[2, 3, 3, 4, 5, 6, 11, 12, 12, 12, 12]
+}],
+relatively=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+carry=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+helps=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+(bpe=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[9, 15]
+}],
+confusion=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+little=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+however=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[1, 2]
+}],
+deep=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[7, 13, 14, 14]
+}],
+(w1=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+sources=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[1, 1, 14]
+}],
+trained=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[1, 2, 2, 4]
+}],
+waiting=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+beginning=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+rather=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[4, 5, 7, 10]
+}],
+importance=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+training=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"29"
+	"page-numbers":[1, 3, 3, 4, 4, 4, 4, 4, 6, 7, 7, 7, 7, 7, 8, 8, 8, 8, 9, 9, 10, 10, 12, 12, 13, 13, 14, 14, 14]
+}],
+exhibits=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+capable=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+bi2=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+"is=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+explained=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+papers=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[13, 13, 15]
+}],
+content=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"13"
+	"page-numbers":[2, 2, 2, 2, 2, 2, 3, 3, 3, 4, 4, 9, 13]
+}],
+primarily=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+unexamined=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+random=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[8, 8, 10]
+}],
+related=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+load=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+sourced=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+rate=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+optimizes=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+staas=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 14]
+}],
+exposed=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+gb=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 5]
+}],
+passed=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+human=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[8, 9, 12]
+}],
+overfitting=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[3, 4, 4, 12]
+}],
+billions=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+practical=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+lowercase=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+h2o=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[15, 15]
+}],
+dnumber=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+length=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[3, 7, 7]
+}],
+"scaling=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+2023=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+grand=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+concerns=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+existing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[12, 12]
+}],
+2019=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+2018=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+2017=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+​two=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+form=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[4, 5, 6]
+}],
+crippling=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+developer=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+prompt=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[9, 9, 11, 12]
+}],
+subset=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+explainer=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+merges=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[10, 10, 10]
+}],
+straightforward=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+very=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+practice=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 8]
+}],
+advanced=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+(recall=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+(1=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+convert=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+soon=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+output=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[4, 8, 12]
+}],
+amplifying=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+uncritically=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+translations=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+2025=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"39"
+	"page-numbers":[13, 13, 13, 13, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15]
+}],
+context=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"6"
+	"page-numbers":[3, 8, 11, 11, 11, 12]
+}],
+1bb5d3481eda=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+model=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"56"
+	"page-numbers":[1, 1, 1, 1, 1, 2, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 5, 5, 6, 7, 7, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 9, 9, 9, 9, 9, 10, 10, 10, 10, 11, 11, 11, 12, 12, 12, 12, 12, 14, 14, 15, 15]
+}],
+majority=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+text=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"35"
+	"page-numbers":[1, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 6, 6, 6, 7, 8, 8, 8, 9, 9, 9, 10, 10, 11, 11, 11, 12, 13, 13, 13, 14, 14, 14, 14]
+}],
+id=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[10, 10, 11]
+}],
+https=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"38"
+	"page-numbers":[13, 13, 13, 13, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15]
+}],
+grams=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+"the=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[6, 6, 10, 13]
+}],
+tasks=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[8, 9]
+}],
+ii=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+sentence=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+likely=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+(1994=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+large=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"8"
+	"page-numbers":[1, 4, 5, 7, 8, 9, 14, 15]
+}],
+issue=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+dependency=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+made=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+io=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[14, 14, 14, 15, 15]
+}],
+lower=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[3, 8, 8]
+}],
+)1=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[8, 8]
+}],
+hashed=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+index=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+injects=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+it=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"25"
+	"page-numbers":[2, 2, 3, 3, 3, 4, 5, 6, 6, 6, 6, 8, 8, 8, 8, 9, 9, 10, 10, 10, 10, 10, 12, 12, 13]
+}],
+being=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+sensitive=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 4]
+}],
+learndatasci=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 14]
+}],
+iv=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+removing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[2, 3, 3, 3, 4]
+}],
+resulting=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[7, 10, 10, 10]
+}],
+odd=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+traditional=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 7]
+}],
+fd196ebfe9=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+field=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+reached=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+(a=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+capitalone=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+(e=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 7]
+}],
+evaluate=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[6, 8]
+}],
+​wordpiece=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+wider=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+semantic=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"10"
+	"page-numbers":[3, 4, 4, 4, 7, 7, 11, 11, 11, 12]
+}],
+​attention=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+works=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[13, 14, 14]
+}],
+positional=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"14"
+	"page-numbers":[11, 11, 11, 11, 11, 11, 11, 11, 11, 12, 12, 15, 15, 15]
+}],
+inference=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+chunks=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+dot=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+indefinitely=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+focuses=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+phenomenon=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+sebastianraschka=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+sequences=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[5, 9, 11]
+}],
+bands=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 5]
+}],
+cycle=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[1, 1, 12]
+}],
+world=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+file=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+known=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[2, 6, 7]
+}],
+incidents=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+generalize=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[5, 5, 8]
+}],
+angle=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+ability=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[7, 11, 11, 12]
+}],
+table=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[3, 10, 11, 11]
+}],
+"banana=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+modifications=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+jaccard=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[4, 5, 5, 5]
+}],
+may=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 12]
+}],
+could=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+forward=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+topics=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+fluency=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+trigger=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+ethical=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[2, 2, 12, 12, 13]
+}],
+batching=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[7, 14]
+}],
+meticulous=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 12]
+}],
+computation=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+300=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[1, 5]
+}],
+discovery=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+overlapping=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+machine=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"6"
+	"page-numbers":[5, 8, 9, 12, 14, 14]
+}],
+able=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+report=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[1, 13, 13, 13]
+}],
+efficiently=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 14]
+}],
+​inside=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+complete=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 14]
+}],
+(oov=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+unseen=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 12]
+}],
+bidirectional=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+instance=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[1, 2, 4]
+}],
+n1=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+dimensional=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[5, 6, 7, 10, 11]
+}],
+use=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 9]
+}],
+hashing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[3, 4]
+}],
+eliminating=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+several=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[3, 8]
+}],
+main=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+serve=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+integer=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[9, 10]
+}],
+while=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"8"
+	"page-numbers":[2, 6, 6, 7, 8, 10, 12, 12]
+}],
+second=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+(idf=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+confused=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+​llm=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+that=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"39"
+	"page-numbers":[1, 2, 2, 2, 2, 2, 3, 4, 4, 5, 5, 5, 5, 5, 5, 6, 7, 7, 7, 7, 8, 8, 8, 8, 9, 9, 10, 10, 10, 10, 10, 11, 11, 11, 11, 11, 12, 12, 12]
+}],
+high=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"6"
+	"page-numbers":[1, 3, 5, 7, 10, 11]
+}],
+download=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+faster=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+split=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+www=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"10"
+	"page-numbers":[13, 13, 14, 14, 14, 14, 15, 15, 15, 15]
+}],
+than=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[2, 4, 5, 7, 11]
+}],
+md=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+bilingual=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+directly=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[2, 5, 5, 8, 10]
+}],
+different=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 11]
+}],
+communication=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+calculated=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[6, 10, 10]
+}],
+regardless=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+intensive=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+ml=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+toxic=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 3]
+}],
+semantically=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[7, 9]
+}],
+-1=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[7, 7]
+}],
+level=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[6, 9]
+}],
+shuffled=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+follows=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+includes=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[1, 2, 9]
+}],
+steps=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[3, 14]
+}],
+predicts=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+becomes=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+relevant=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[6, 6, 7, 12]
+}],
+708d4472c0=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+task=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[2, 5, 7, 8]
+}],
+prediction=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[3, 8]
+}],
+principles=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 7]
+}],
+conceptualized=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+ng=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+flowchart=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[4, 11, 11]
+}],
+comprised=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+position=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[11, 11, 11, 12]
+}],
+present=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+oriented=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+errors=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[3, 3]
+}],
+no=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+.2=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 2]
+}],
+paradigm=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+careful=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+transformer=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"11"
+	"page-numbers":[10, 11, 11, 11, 12, 12, 15, 15, 15, 15, 15]
+}],
+box=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[4, 11, 11, 12]
+}],
+appears=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[6, 6, 10, 10, 10]
+}],
+best=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+"list=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+total=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[6, 6, 7]
+}],
+transform=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+bpe=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"6"
+	"page-numbers":[9, 9, 9, 10, 10, 15]
+}],
+unstructured=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+rooted=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+nouns=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+algorithmic=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+galeforce=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+highly=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[6, 6, 7, 10]
+}],
+allows=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+opposed=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+processes=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[9, 11, 12]
+}],
+or=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"15"
+	"page-numbers":[3, 3, 3, 3, 4, 4, 6, 6, 7, 8, 9, 9, 9, 9, 10]
+}],
+determine=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+nature=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[1, 5, 11]
+}],
+social=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 12]
+}],
+problematic=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[2, 2, 2]
+}],
+cross=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+raised=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+compound=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+structure=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[3, 11]
+}],
+calculates=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+processed=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[7, 8, 11, 12]
+}],
+100=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+due=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+=log=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+subword=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[9, 9, 9, 10, 13]
+}],
+properties=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+occurrences=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+architectures=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+strategic=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[1, 10]
+}],
+coherent=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+intentional=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+accessing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+character=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[3, 9, 9]
+}],
+speaking=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+unravels=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[15, 15]
+}],
+sizes=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+​the=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+meaning=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[3, 8, 11]
+}],
+"th=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[10, 10, 10]
+}],
+foundational=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[1, 7, 13]
+}],
+​statistical=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+estimate=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+reddit=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[15, 15]
+}],
+corpora=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[1, 5]
+}],
+refinement=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+blending=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[4, 4, 4]
+}],
+band=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 5]
+}],
+they=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[7, 7, 7, 10, 11]
+}],
+10=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[4, 5, 7, 14, 15]
+}],
+breaking=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[9, 9]
+}],
+boxes=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+11=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"8"
+	"page-numbers":[4, 5, 5, 5, 5, 5, 5, 14]
+}],
+inadequate=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+based=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"11"
+	"page-numbers":[3, 3, 4, 4, 4, 6, 7, 7, 9, 10, 12]
+}],
+12=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[6, 6, 14]
+}],
+inevitable=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+13=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[6, 14]
+}],
+github=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[14, 14, 15, 15, 15]
+}],
+grouped=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+14=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[6, 7, 7, 14]
+}],
+multitask=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+15=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+methodologies=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 13]
+}],
+16=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[7, 14]
+}],
+crawled=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+17=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"7"
+	"page-numbers":[7, 7, 7, 8, 8, 8, 14]
+}],
+18=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[1, 14]
+}],
+19=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[8, 9, 9, 14]
+}],
+them=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[6, 9]
+}],
+then=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"7"
+	"page-numbers":[3, 4, 5, 5, 9, 11, 12]
+}],
+dissimilar=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+quality=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"18"
+	"page-numbers":[1, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 8, 12, 12, 14, 14]
+}],
+mission=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+thereby=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 10]
+}],
+concepts=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+generalization=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+normalizes=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+unique=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[10, 11]
+}],
+processing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"10"
+	"page-numbers":[1, 3, 6, 7, 7, 11, 11, 12, 13, 13]
+}],
+shuffling=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[4, 4, 7, 8, 8]
+}],
+bridge=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+singular=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+20=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[9, 14]
+}],
+21=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+22=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[1, 9, 14]
+}],
+23=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[9, 15]
+}],
+24=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[9, 15]
+}],
+components=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+access=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[1, 3]
+}],
+prominent=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+enhances=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+25=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[9, 13, 15]
+}],
+26=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+27=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[10, 15]
+}],
+28=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+29=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[10, 10, 10, 15]
+}],
+freq=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[10, 10]
+}],
+fundamental=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[2, 8, 9, 10, 12]
+}],
+grammatical=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+global=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+executed=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+eliminate=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+delve=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+long=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+current=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+bleu=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+variety=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+actively=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+origins=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+vector=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"11"
+	"page-numbers":[9, 10, 10, 11, 11, 11, 11, 11, 11, 12, 12]
+}],
+persist=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+free=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+paved=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+so=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+1n=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[7, 7, 7, 8]
+}],
+mix=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+30=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[10, 15]
+}],
+key=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+31=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[10, 15]
+}],
+situations=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+sr=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+32=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[11, 15]
+}],
+maintains=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+dirty=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+offensive=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+33=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[11, 15]
+}],
+34=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[11, 11, 13, 15]
+}],
+35=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[11, 11, 15]
+}],
+36=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+necessary=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+decision=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+37=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[12, 12, 13, 15]
+}],
+(dataset=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[13, 13]
+}],
+38=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+39=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[13, 13, 13, 15]
+}],
+one=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 14]
+}],
+makes=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+heuristic=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[3, 3, 3, 4]
+}],
+many=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 6]
+}],
+closer=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+single=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"8"
+	"page-numbers":[1, 1, 5, 7, 8, 8, 9, 9]
+}],
+actually=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 14]
+}],
+appear=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+tf=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"12"
+	"page-numbers":[6, 6, 6, 6, 6, 6, 7, 7, 14, 14, 14, 14]
+}],
+face=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+th=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[10, 10, 10]
+}],
+ibm=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[15, 15]
+}],
+increasing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+2i=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[11, 11, 11, 11]
+}],
+associated=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+beginners=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[15, 15]
+}],
+vast=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[1, 5, 10, 12]
+}],
+40=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+iteratively=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+open=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[1, 13]
+}],
+ratio=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+seeks=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+but=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"11"
+	"page-numbers":[2, 2, 4, 4, 6, 8, 10, 10, 10, 10, 13]
+}],
+embeddings=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"6"
+	"page-numbers":[10, 15, 15, 15, 15, 15]
+}],
+circumvent=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+​trainingoptions=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+project=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+rules=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[3, 10]
+}],
+inside=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+​what=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[15, 15]
+}],
+pairs=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[9, 10, 10]
+}],
+meticulously=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+jsonl=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+frequency=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"7"
+	"page-numbers":[6, 6, 6, 6, 6, 6, 7]
+}],
+zero=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[6, 6]
+}],
+trivial=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+3f=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+inextricably=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+exhaustive=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+dynamic=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 7]
+}],
+w1=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[8, 8]
+}],
+unusual=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+generate=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[11, 12]
+}],
+vectorial=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+eleutherai=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+"confident=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+1cs29kn=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+buckets=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+query=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+revealing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+this=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"46"
+	"page-numbers":[1, 1, 1, 1, 2, 2, 2, 3, 3, 3, 3, 3, 4, 4, 4, 5, 5, 5, 5, 5, 5, 6, 6, 7, 7, 7, 8, 8, 9, 10, 10, 10, 10, 10, 10, 10, 11, 11, 11, 11, 11, 11, 11, 12, 13, 13]
+}],
+idf=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"15"
+	"page-numbers":[6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 14, 14, 14, 14]
+}],
+collection=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[1, 1, 6, 8, 13]
+}],
+remarkable=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+incorrectly=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+discrete=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+extract=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[3, 5]
+}],
+once=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[3, 7]
+}],
+failure=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+transformations=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+geometric=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+sine=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+ids=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"7"
+	"page-numbers":[9, 10, 10, 11, 11, 12, 12]
+}],
+know=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 15]
+}],
+support=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+internet=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+rewards=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+milvus=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 14]
+}],
+higher=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[3, 6, 6, 8]
+}],
+necessitates=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+reasons=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+ranges=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+sequential=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"6"
+	"page-numbers":[4, 4, 9, 11, 11, 12]
+}],
+shaped=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[13, 13]
+}],
+update=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+proper=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+learning=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"13"
+	"page-numbers":[4, 7, 8, 8, 8, 12, 14, 14, 14, 14, 14, 15, 15]
+}],
+rouge=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+life=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[1, 1, 12]
+}],
+we=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[12, 13]
+}],
+fundamentally=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+wi=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+memorization=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+proprietary=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+common=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"18"
+	"page-numbers":[1, 1, 1, 2, 2, 2, 2, 2, 4, 6, 6, 6, 7, 10, 10, 13, 13, 13]
+}],
+gao=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+similarity=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"20"
+	"page-numbers":[4, 5, 5, 5, 5, 6, 6, 7, 7, 7, 7, 7, 7, 7, 14, 14, 14, 14, 14, 14]
+}],
+mastering=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[13, 14]
+}],
+causal=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 11]
+}],
+every=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[5, 5, 9]
+}],
+clusters=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+coverage=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+summary=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[3, 9, 9]
+}],
+deduplicating=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+types=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+cases=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+(rag=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+previous=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+winning=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[15, 15]
+}],
+org=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"9"
+	"page-numbers":[13, 13, 13, 13, 14, 15, 15, 15, 15]
+}],
+calculating=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+"bert=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+filters=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[3, 5]
+}],
+technology=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 14]
+}],
+indeed=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+superior=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+artificial=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[7, 13]
+}],
+80=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+removal=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+formula=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"8"
+	"page-numbers":[5, 7, 8, 8, 10, 10, 14, 14]
+}],
+step=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[1, 2, 9, 10]
+}],
+deeper=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+"shingling=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+employ=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[6, 7]
+}],
+frameworks=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+pingcap=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+reach=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+repository=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[1, 13, 13]
+}],
+beyond=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[1, 8]
+}],
+ajigboye=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+preparation=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+loss=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+cornell=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[13, 15, 15]
+}],
+problem=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 9]
+}],
+filtered=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[1, 2]
+}],
+optimization=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+preliminary=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[3, 3, 3, 4]
+}],
+presence=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+seminal=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[13, 13]
+}],
+96=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+dependent=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+guide=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 14]
+}],
+efficiency=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 10]
+}],
+still=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 6]
+}],
+transformers=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[11, 13, 15, 15]
+}],
+method=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"8"
+	"page-numbers":[2, 4, 5, 6, 6, 7, 7, 11]
+}],
+natural=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[3, 6]
+}],
+work=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 14]
+}],
+understudy=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[8, 8]
+}],
+focusing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[7, 9]
+}],
+linguistically=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[3, 10]
+}],
+7c15957b4cb3=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+(pile=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+toward=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 2]
+}],
+itself=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+examples=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[5, 7, 14, 14]
+}],
+versions=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+following=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[3, 13]
+}],
+exact=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[3, 4, 4, 7]
+}],
+force=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 15]
+}],
+disproportionately=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+word=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"7"
+	"page-numbers":[3, 6, 6, 6, 6, 6, 9]
+}],
+internal=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+flag=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+signature=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[4, 5, 5]
+}],
+elementfreq=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+kudo=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+classical=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+iii=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+range=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+foundation=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[2, 9, 13]
+}],
+distribution=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+evidenced=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+out=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[5, 9, 15]
+}],
+capacity=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+fall=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+writing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+continues=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[10, 12]
+}],
+course=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[15, 15]
+}],
+power=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+place=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+precise=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+collective=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+undergo=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+academy=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+include=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+computationally=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[4, 5, 5, 7]
+}],
+simplest=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+​tokenization=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+alongside=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+marketed=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+=sin=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+converts=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[9, 12]
+}],
+transformation=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[6, 9, 12]
+}],
+lead=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+fraction=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+token=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"18"
+	"page-numbers":[3, 5, 8, 9, 9, 10, 10, 10, 10, 10, 11, 11, 11, 11, 11, 11, 11, 15]
+}],
+tokenizer=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[10, 11, 13, 15]
+}],
+tokenized=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[9, 10]
+}],
+help=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+forcing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+massive=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[2, 4, 7]
+}],
+assess=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+elements=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 5]
+}],
+self=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}],
+mathworks=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 14]
+}],
+minimum=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+first=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[6, 10]
+}],
+mathematical=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 8]
+}],
+dimensions=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[11, 11]
+}],
+data=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"74"
+	"page-numbers":[1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 6, 7, 7, 8, 8, 8, 8, 8, 8, 9, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 13, 13, 13, 13, 13, 13, 13, 14, 14, 14, 14, 14, 14, 15, 15, 15]
+}],
+sound=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+formulas=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[7, 11]
+}],
+wiki=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"6"
+	"page-numbers":[13, 14, 15, 15, 15, 15]
+}],
+own=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 14]
+}],
+=total=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[6]
+}],
+minority=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+blog=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"8"
+	"page-numbers":[13, 13, 14, 14, 14, 14, 14, 15]
+}],
+space=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[6, 7, 11]
+}],
+nuanced=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[3, 7]
+}],
+herculean=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+reference=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[8, 9]
+}],
+only=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 5]
+}],
+create=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+from=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"29"
+	"page-numbers":[1, 1, 1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 4, 5, 5, 7, 7, 8, 9, 10, 10, 11, 11, 12, 12, 12, 12, 15, 15]
+}],
+html=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[14, 15]
+}],
+readable=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+matlab=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+discover=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+development=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+individual=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[9, 10]
+}],
+like=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[1, 1, 6, 6, 11]
+}],
+fabio=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+comparing=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[5, 7, 7, 8]
+}],
+sequentially=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[7, 11]
+}],
+capture=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[9, 10]
+}],
+commitment=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[13]
+}],
+​confused=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+sequence=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"13"
+	"page-numbers":[3, 3, 3, 8, 8, 8, 9, 10, 10, 11, 11, 11, 12]
+}],
+core=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 7]
+}],
+addressed=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+petabytes=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+techniques=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[2, 2, 13, 14]
+}],
+edu=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+enforce=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[3, 3]
+}],
+cleaned=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 12]
+}],
+epochs=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+"corpus=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+youtube=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[15, 15]
+}],
+summarization=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[9]
+}],
+purpose=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[3, 6, 11]
+}],
+challenges=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[12, 15, 15]
+}],
+normalized=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[4, 8, 12]
+}],
+frequent=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"6"
+	"page-numbers":[8, 10, 10, 10, 10, 10]
+}],
+scale=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"7"
+	"page-numbers":[1, 1, 4, 5, 8, 12, 15]
+}],
+distinct=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 6]
+}],
+scali=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+network=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[14]
+}],
+aware=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[11, 12]
+}],
+can=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"19"
+	"page-numbers":[1, 2, 3, 3, 4, 4, 4, 4, 5, 7, 7, 9, 9, 9, 9, 10, 10, 10, 11]
+}],
+inclusion=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[2, 2]
+}],
+numerical=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[6, 9, 10]
+}],
+operations=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[4, 11]
+}],
+=p=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+award=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+public=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[1, 14]
+}],
+paper=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[11, 15, 15]
+}],
+ready=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+parameter=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[7]
+}],
+cat=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[9, 10]
+}],
+hyperparameters=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[7, 8]
+}],
+wordpiece=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"6"
+	"page-numbers":[9, 10, 10, 10, 15, 15]
+}],
+value=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[5, 6, 7]
+}],
+cleaning=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"5"
+	"page-numbers":[2, 3, 3, 3, 4]
+}],
+monolithic=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+costs=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[4]
+}],
+inverse=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[6, 6, 6, 8]
+}],
+lookup=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[10, 11, 11]
+}],
+cost=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+aims=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+constructed=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+will=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 11]
+}],
+confidence=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+match=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+underscores=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[12]
+}],
+groups=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+resources=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+standardize=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+efficacy=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[8]
+}],
+expensive=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[5]
+}],
+deduplicated=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"3"
+	"page-numbers":[4, 4, 4]
+}],
+performance=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"8"
+	"page-numbers":[3, 5, 8, 8, 8, 8, 10, 14]
+}],
+segmenting=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[10]
+}],
+corresponding=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[10, 11]
+}],
+conversational=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[1]
+}],
+polo=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[15]
+}],
+york=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[2]
+}],
+stages=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[3]
+}],
+challenge=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"4"
+	"page-numbers":[2, 2, 5, 11]
+}],
+independently=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"2"
+	"page-numbers":[5, 10]
+}],
+locations=[{
+	"Name":"LLM Data Pipeline Explained_.pdf"
+	"Word-freq":"1"
+	"page-numbers":[11]
+}]}
